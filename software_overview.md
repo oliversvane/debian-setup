@@ -12,7 +12,11 @@
 - UBlock Origin
 #VSCodium
 ##Extensions
+- Python
+- Jupyter
+- 
 #Docker
+#Docker Desktop
 
 
 
