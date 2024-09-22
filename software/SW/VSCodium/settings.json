@@ -1,0 +1,33 @@
+{
+    "yaml.schemas": {
+        "file:///home/olol/.vscode-oss/extensions/atlassian.atlascode-3.0.10-universal/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.jira.enabled": true,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "github.experimental.multipleAccounts": true,
+    "git-autoconfig.configList": [
+        {
+            "user.email": "oliversvaneolsen@gmail.com",
+            "user.name": "Oliver Svane Olsen"
+        },
+        {
+            "user.email": "oliver@savery.ai",
+            "user.name": "Oliver Svane Olsen"
+        }
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'0xProto Nerd Font Mono'",
+    "terminal.integrated.fontFamily": "monospace, 'FiraCode Nerd Font Mono', monospace",
+    "editor.fontVariations": false,
+    "editor.fontLigatures": false,
+    "editor.fontWeight": "normal",
+    "terminal.integrated.customGlyphs": true,
+    "terminal.integrated.minimumContrastRatio": 10,
+    "terminal.integrated.fontSize":15,
+    "terminal.integrated.fontWeight": "normal",
+    "workbench.colorTheme": "Monokai",
+    "explorer.confirmDragAndDrop": false,
+
+    }

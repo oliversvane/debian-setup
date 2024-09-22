@@ -1,0 +1,9 @@
+gsettings set org.gnome.settings-daemon.plugins.power ambient-enabled false
+gsettings set org.gnome.mutter edge-tiling true
+gsettings set org.gnome.mutter workspaces-only-on-primary false
+gsettings set org.gnome.shell.app-switcher current-workspace-only true
+gsettings set org.gnome.desktop.interface gtk-theme 'Yaru-dark'
+gsettings set org.gnome.desktop.background picture-uri './background.jpg'
+gsettings set org.gnome.shell.extensions.desktop-icons icon-size 'small'
+gsettings set org.gnome.shell.extensions.desktop-icons show-home false
+gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 30
