@@ -21,5 +21,5 @@ extensions=(
 
 # Loop through and install each extension
 for extension in "${extensions[@]}"; do
-    codium --install-extension "$extension"
+    code --install-extension "$extension"
 done

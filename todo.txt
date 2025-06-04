@@ -1,0 +1,7 @@
+latex
+nim
+solaar
+pgadmin
+neovim
+slack
+nvidia drivers
